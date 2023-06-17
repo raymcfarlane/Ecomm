@@ -14,9 +14,9 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 ## Usage
-- [Video Walk-through]()
+- [Video Walk-through](https://drive.google.com/file/d/1qPcJTeFLTtAZ0f3j826c1QDfHJutbMvQ/view)
  - Images:
-  ![]()
+  ![](https://github.com/raymcfarlane/Ecomm/blob/main/Develop/assets/images/Insomniaecomm.JPG)
 
 
 ## Installation 
